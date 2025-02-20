@@ -4,3 +4,15 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.Searcher {
+    margin-left: 50px;
+}
+
+.content-one {
+    margin-right: 100px;
+}
+
+.featured {
+    margin-left: 500px;
+}
