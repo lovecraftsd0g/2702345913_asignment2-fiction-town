@@ -9,10 +9,32 @@
     margin-left: 50px;
 }
 
-.content-one {
-    margin-right: 100px;
+.content{
+    margin-left: 75px;
 }
 
 .featured {
+    margin-top: 225px;
     margin-left: 500px;
+}
+
+.rating {
+    margin-left: 72px;
+    width: 10%;
+
+}
+
+.the-story {
+    margin-left: 110px;
+    margin-top: 10px;
+    width: 65%;
+}
+
+.the-story p {
+    font-size: 17px;
+}
+
+.the-title{
+    font-size: 50px;
+    
 }
